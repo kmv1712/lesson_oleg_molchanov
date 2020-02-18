@@ -1,0 +1,17 @@
+Для работы selenium:
+1) Найти github репозитрий geckodriver
+2) Выбрать нужный драйвер под рабочую машину
+3) Скачать, распаковать из файла где распакованый драйвер выполнить команду:
+sudo cp geckodriver /usr/local/bin
+
+
+Для работы функции crop:
+Надо установить pillow
+pip install pillow
+
+
+Для работы распознания:
+
+sudo apt-get install tesseract-ocr
+pip install pytesseract
+
